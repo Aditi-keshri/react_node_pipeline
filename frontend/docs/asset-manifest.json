@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Aditi-keshri/react-pipeline-builder/static/css/main.e3432500.css",
+    "main.js": "/Aditi-keshri/react-pipeline-builder/static/js/main.0f53643a.js",
+    "index.html": "/Aditi-keshri/react-pipeline-builder/index.html",
+    "main.e3432500.css.map": "/Aditi-keshri/react-pipeline-builder/static/css/main.e3432500.css.map",
+    "main.0f53643a.js.map": "/Aditi-keshri/react-pipeline-builder/static/js/main.0f53643a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3432500.css",
+    "static/js/main.0f53643a.js"
+  ]
+}
