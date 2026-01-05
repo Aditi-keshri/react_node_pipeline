@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://github.com/Aditi-keshri/react-pipeline-builder",
+  "homepage": "https://github.com/Aditi-keshri/react_node_pipeline",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
