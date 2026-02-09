@@ -1,5 +1,5 @@
 export function submitPipeline(nodes, edges) {
-  fetch("http://localhost:8000/pipelines/parse", {
+  fetch("https://react-node-pipeline.onrender.com", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ nodes, edges })
